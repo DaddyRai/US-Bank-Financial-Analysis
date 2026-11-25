@@ -30,7 +30,8 @@ This project analyzes the financial performance and equity valuation of six majo
 ## Power BI Dashboard
 
 The dashboard includes revenue and net income trends, ROA/ROE comparisons, P/E valuations, stock performance, and bank/year filters.
-![alt text](<US Bank Dashboard.jpg>)
+<img width="1280" height="726" alt="image" src="https://github.com/user-attachments/assets/75e0eaa4-e041-47b3-a9a9-c2895a3f880f" />
+
 
 ## Key Findings
 
